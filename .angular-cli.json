@@ -22,7 +22,13 @@
         "../node_modules/font-awesome/scss/font-awesome.scss",
         "../scss/styles.scss"
       ],
-      "scripts": [],
+      "scripts": [
+        "../node_modules/jquery/dist/jquery.slim.min.js",
+        "../node_modules/popper.js/dist/popper.min.js",
+        "../node_modules/bootstrap-beta/dist/js/bootstrap.min.js",
+        "../node_modules/chart.js/dist/Chart.js",
+        "../node_modules/hammerjs/hammer.min.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",

@@ -7,6 +7,9 @@ The following have been installed in this project
 Material Angular
 HammerJS
 Font Aweseome
+Popper.js
+jQuery 3.2.1
+Chart.js
 
 ## Development server
 
