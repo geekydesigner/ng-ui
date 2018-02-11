@@ -19,4 +19,4 @@ import {
     MatButtonModule
   ]
 })
-export class MaterialModule {}
+export class AppMaterialModule {}
