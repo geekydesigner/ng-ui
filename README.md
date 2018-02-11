@@ -4,18 +4,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Included
 The following have been installed* in this project
-Bootstrap 4
-IBM Plex
-Material Angular
-HammerJS
-Font Aweseome
-Popper.js
-jQuery 3.2.1
-Chart.js
+- Bootstrap 4
+- IBM Plex
+- Material Angular 5.2.x
+- HammerJS
+- Font Aweseome
+- Popper.js
+- jQuery 3.2.1
+- Chart.js
 
 ## Development server
 
 Run `npm install` for all required *installations
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
