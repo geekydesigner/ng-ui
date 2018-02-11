@@ -1,6 +1,7 @@
 # About
 
-Howdy! My name is [B-Ri](http://bstjohn.com) - this is an experimental project using a few UI libraries that I am fan of... consider this alpha, please message me if you'd like to contribute
+Howdy! My name is [B-Ri](http://bstjohn.com) and this is an experimental project using a few UI libraries that I am fan of...
+Consider this an alpha project and likely to change. You will find a few recipes for theming Bootstrap and Material - enjoy!
 
 # NgUi
 
