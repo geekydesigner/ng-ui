@@ -20,6 +20,7 @@
       "prefix": "app",
       "styles": [
         "../node_modules/font-awesome/scss/font-awesome.scss",
+        "../node_modules/@ibm/type/scss/ibm-type.scss",
         "../scss/styles.scss"
       ],
       "scripts": [

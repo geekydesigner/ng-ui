@@ -3,7 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
 
 # Included
-The following have been installed in this project
+The following have been installed* in this project
+Bootstrap 4
+IBM Plex
 Material Angular
 HammerJS
 Font Aweseome
@@ -13,6 +15,7 @@ Chart.js
 
 ## Development server
 
+Run `npm install` for all required *installations
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
